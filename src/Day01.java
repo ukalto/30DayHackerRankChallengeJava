@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Day1 {
+public class Day01 {
 
     public static void main(String[] args) {
         int i = 4;

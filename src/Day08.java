@@ -3,7 +3,7 @@
 import java.util.*;
 import java.io.*;
 
-class Day8 {
+class Day08 {
     public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
