@@ -22,7 +22,7 @@
 
 > Day 10 :white_check_mark:
 
-> Day 11
+> Day 11 :white_check_mark:
 
 > Day 12
 
