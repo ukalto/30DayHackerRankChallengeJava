@@ -53,7 +53,7 @@ class Day12 extends Person{
     }
 }
 
-class Solution {
+class Solution12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String firstName = scan.next();
