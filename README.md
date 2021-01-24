@@ -30,7 +30,7 @@
 
 > Day 14 :white_check_mark:
 
-> Day 15
+> Day 15 :white_check_mark:
 
 > Day 16
 
