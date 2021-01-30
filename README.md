@@ -36,13 +36,13 @@
 
 > Day 17 :white_check_mark:
 
-> Day 18
+> Day 18 :white_check_mark:
 
-> Day 19
+> Day 19 :white_check_mark:
 
-> Day 20
+> Day 20 :white_check_mark:
 
-> Day 21
+> Day 21 :white_check_mark:
 
 > Day 22
 
